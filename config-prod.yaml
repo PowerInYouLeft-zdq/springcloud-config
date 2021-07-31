@@ -1,1 +1,2 @@
-config-prod.yml
+config:
+    info: from nacos config center, nacos-config-client-prod.yaml, version = 1
