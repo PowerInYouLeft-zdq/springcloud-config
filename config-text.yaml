@@ -1,1 +1,2 @@
-config-text.yml
+config:
+    info: from nacos config center, nacos-config-client-text.yaml, version = 1
